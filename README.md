@@ -10,10 +10,12 @@ this is a CLi Based Project Where you can add update delete list using cli
 
     go run main.go -command  update -task "samsung" -qty 88 -list  "mobile"
 
-#3 ) for Delete 
+# 3 ) for Delete 
 
      go run main.go -command  delete -id 14
 
+PROJECT URL 
+     https://github.com/Onkark7/to-do-CLI
 
 by using this command we can add into in my database.
 
