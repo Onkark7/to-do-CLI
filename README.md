@@ -1,6 +1,6 @@
 # TO-DO list project
 
-this is a CLi Bases Project Where you can add update delete list using cli 
+this is a CLi Based Project Where you can add update delete list using cli 
 
 for add
 
