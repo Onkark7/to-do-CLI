@@ -2,6 +2,10 @@
 
 this is a CLi Based Project Where you can add update delete list using cli 
 
+Clone the repository and run the following command:
+
+git clone https://github.com/Onkark7/to-do-CLI.git
+
 # 1 ) for add
 
     go run main.go -command  add -task "samsung" -qty 88 -list  "charger"
@@ -14,8 +18,6 @@ this is a CLi Based Project Where you can add update delete list using cli
 
      go run main.go -command  delete -id 14
 
-PROJECT URL 
-     https://github.com/Onkark7/to-do-CLI
 
 by using this command we can add into in my database.
 
