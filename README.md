@@ -2,17 +2,17 @@
 
 this is a CLi Based Project Where you can add update delete list using cli 
 
-for add
+# 1 ) for add
 
-go run main.go -command  add -task "samsung" -qty 88 -list  "charger"
+    go run main.go -command  add -task "samsung" -qty 88 -list  "charger"
 
-for update 
+# 2) for update 
 
-go run main.go -command  update -task "samsung" -qty 88 -list  "mobile"
+    go run main.go -command  update -task "samsung" -qty 88 -list  "mobile"
 
-for Delete 
+#3 ) for Delete 
 
-go run main.go -command  delete -id 14
+     go run main.go -command  delete -id 14
 
 
 by using this command we can add into in my database.
